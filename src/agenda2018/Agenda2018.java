@@ -45,6 +45,8 @@ public class Agenda2018 {
         //trabalho arquitetura (c);
         //lista algoritmo (c);
         //lista matemática p/ 30.08 (c);
+        //atividade Matemática Python
+        //ver com Kesia se tem trabalho de arquitetura
         
         
         //ATIVIDADES
@@ -52,7 +54,10 @@ public class Agenda2018 {
         //curso internet 4.0 (a);
         //exercícios matemática (a);
         //estudar p/ concurso (a);
-        //ler livro JAVA (a)
+        //ler livro JAVA (b)
+        //ler livro Engenharia (b)
+        //entregar currículos
+        //fazer lista Norma p/ exercitar algoritmos
     }
     
 }
