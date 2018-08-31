@@ -39,6 +39,8 @@ public class Agenda2018 {
         if (!resposta.equals ("a") && !resposta.equals ("b") && !resposta.equals ("c")) {
         nota= nota + "inválida!";
     }
+        system.out.println ("ABC");
+        
 
     JOptionPane.showMessageDialog (null, nota);
     
